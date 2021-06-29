@@ -26,7 +26,7 @@
             <a class="nav-link active" aria-current="page" href="nos">Quem somos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Destaques</a>
+            <button type="button" class="btn btn-primary">Primary</button>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Depoimentos</a>
@@ -92,28 +92,27 @@
   </div>
   <!-- Quem somos-->
 
-  <button>
-    <div class="container">
-      <div class="card mb-5" id="nos">
-        <img class="img-fluid" src="https://images.pexels.com/photos/5864213/pexels-photo-5864213.jpeg?cs=srgb&dl=pexels-rachel-claire-5864213.jpg&fm=jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Quem somos</h5>
-          <p class="card-text"></p><b>Somos revendedores e produtores de plantas ornamentais, suculentas e cactus</b></p>
-        </div>
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item">An item</li>
-          <li class="list-group-item">A second item</li>
-          <li class="list-group-item">A third item</li>
-        </ul>
-        <div class="card-body">
-          <a href="#" class="card-link">Card link</a>
-          <a href="#" class="card-link">Another link</a>
-        </div>
+  <div class="container">
+    <div class="card mb-5" id="nos">
+      <img class="img-fluid" src="https://images.pexels.com/photos/5864213/pexels-photo-5864213.jpeg?cs=srgb&dl=pexels-rachel-claire-5864213.jpg&fm=jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Quem somos</h5>
+        <p class="card-text"></p><b>Somos revendedores e produtores de plantas ornamentais, suculentas e cactus</b></p>
       </div>
-
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">An item</li>
+        <li class="list-group-item">A second item</li>
+        <li class="list-group-item">A third item</li>
+      </ul>
+      <div class="card-body">
+        <a href="#" class="card-link">Card link</a>
+        <a href="#" class="card-link">Another link</a>
+      </div>
     </div>
 
-  </button>
+  </div>
+
+
 
   <!-- Destaques-->
   <div id="Destaques">
