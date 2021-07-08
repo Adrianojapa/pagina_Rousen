@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="stylesheet" href="style.css">
 
 <head>
   <meta charset="UTF-8">
@@ -50,7 +49,7 @@
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="http://4.bp.blogspot.com/_oP53zcKKbdc/TQaBIuBCKMI/AAAAAAAAEGc/JsKsqIZAnqw/s1600/cactos-e-suculentas.jpg" id="vasosEPlantas" class="d-block w-100" alt="image01VasosEPlantas">
+        <img id="suculentaSlide01" src="http://4.bp.blogspot.com/_oP53zcKKbdc/TQaBIuBCKMI/AAAAAAAAEGc/JsKsqIZAnqw/s1600/cactos-e-suculentas.jpg" id="vasosEPlantas" class="d-block w-100" alt="image01VasosEPlantas">
 
       </div>
       <div class="carousel-item">
@@ -70,6 +69,14 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
+
+  <img src="https://conexaoplaneta.com.br/wp-content/uploads/2015/10/cacto-flor-rosa.jpg" class="img-thumbnail" alt="Cacto com Flor">
+  <img src="https://lh3.googleusercontent.com/proxy/0O-rdpUX4HOWeWkmGJvbuKGIsQNJMDBuKtzX8YADz9nqdPn82cAZQrTEugfl7L82UQU5rh_WV81EflQ-kHDJU9g5MKOiOBbVUME8gK1bMD9YWV_YhGb7ur7IyAlrCj58xlZeiRcI1Tg4kPk"
+   class="img-thumbnail" alt="Varios cactos e suculentas">
+  <img src="https://www.mundoecologia.com.br/wp-content/uploads/2020/01/Cacto-caseiro-como-cuidar.jpg" 
+  class="img-thumbnail" alt="Mickey">
+  <img src="https://lh3.googleusercontent.com/proxy/tQZoeXCJ9CtMGTCwJsn_gF3269lnn7Qi5qgWhoftyaE_g8d6Dl1DHOoNuXH-dY8PgynpQQfIZ0hw5-AeMnKw2mibxyBTYuyIfv0XbyJx5cIYrtqY"
+   class="img-thumbnail" alt="Cacto Redondo">
 
 
 

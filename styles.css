@@ -1,26 +1,43 @@
+
+body{
+    background-color: #122217;
+    color: #7c7474;
+    text-align: center;
+
+
+}
 #faixaDeCima{
     background-color: honeydew;
     color: green;
     
 }
 title #faixaDeCima{
-    color: #cfdbcf;
+    color: #444d44;
     text-align: center;
-    
+}
+div h1 li a #inicio{
+    color: #cac7c2;
+    background-color: rgb(247, 245, 243);
+    text-align: center;
+}
 
+div img p #paragradoQuemSomos{
+    background-color: burlywood;
+    color: rgb(61, 59, 49);
+    text-decoration-color: rgb(236, 240, 240);
+    text-align: center;
+    width: 100%;
 }
 
 
-
-body{
-    background-color: #122217;
-    color: #7c7474;
-    text-align: center;
-}
 #destaques{
     background-color: gold;
     color: darkblue;
     right: 100px;
+
+}
+div img #suculentaSlide01{
+    width: 20%;
 
 }
  
